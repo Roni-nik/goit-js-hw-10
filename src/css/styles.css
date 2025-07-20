@@ -1,5 +1,6 @@
 
 #datetime-picker {
+  
   background: #fff;
   border: 1px solid #808080;
   border-radius: 4px;
@@ -7,7 +8,7 @@
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   color: #2e2f42;
 
@@ -43,6 +44,7 @@ button[data-start] {
 
   line-height: 1.5;
   letter-spacing: 0.04em;
+ font-size: 16px;
 
 
 }
@@ -84,7 +86,7 @@ button[data-start]:not(:disabled):focus {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 40px;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
@@ -93,7 +95,7 @@ button[data-start]:not(:disabled):focus {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   color: #2e2f42;
   text-transform: uppercase;
 }
